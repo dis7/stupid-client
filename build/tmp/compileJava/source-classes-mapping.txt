@@ -1,0 +1,2 @@
+stupid/client/App.java
+ stupid.client.App
